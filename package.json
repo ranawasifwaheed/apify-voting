@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "apify": "^3.2.0",
+    "crawlee": "^3.9.2",
+    "puppeteer": "^22.9.0"
+  }
+}
