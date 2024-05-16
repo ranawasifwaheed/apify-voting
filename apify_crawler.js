@@ -1,5 +1,5 @@
-import { Actor } from 'apify';
-import { PuppeteerCrawler } from 'crawlee';
+const { Actor } = require('apify');
+const { PuppeteerCrawler } = require('crawlee');
 Actor.main(async () => {
     // Create proxy configuration with residential proxies
     // const proxyConfiguration = await Actor.createProxyConfiguration({
